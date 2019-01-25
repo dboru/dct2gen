@@ -1,7 +1,6 @@
 Source code of the [DCT2Gen traffic generator] (http://dl.acm.org/citation.cfm?id=2906504)
-T
-This document is copied from Paderborn University webpage 
-  https://cs.uni-paderborn.de/?id=65279
+
+This document is copied from Paderborn University webpage ( https://cs.uni-paderborn.de/?id=65279)
 
 DCT2Gen takes a description of certain properties of observed Layer 2 traffic and generates a schedule of TCP payload transmissions. When this schedule is executed, this generates Layer 2 traffic on the network having the same properties as the observed Layer 2 traffic.
 
