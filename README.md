@@ -5,11 +5,13 @@ This document is copied from Paderborn University webpage ( https://cs.uni-pader
 DCT2Gen takes a description of certain properties of observed Layer 2 traffic and generates a schedule of TCP payload transmissions. When this schedule is executed, this generates Layer 2 traffic on the network having the same properties as the observed Layer 2 traffic.
 
 A detailed description of DCT2Gen can be found in our paper Philip Wette and Holger Karl: DCT2Gen: A Versatile TCP Traffic Generator for Data Centers, 2014.
-Here you can find a print and a pre-print on arXiv.
+Here you can find a print (http://www.sciencedirect.com/science/article/pii/S0140366415004594)  and a pre-print on arXiv (http://arxiv.org/abs/1409.2246).
 
 Download DCT2Gen ver. 0.02
 
--> GitHub
+https://cs.uni-paderborn.de/fileadmin/informatik/fg/cn/Open-source_Software/DCT2Gen0.02.tar.bz2
+
+https://github.com/CN-UPB/trafficGen
 
 DCT2Gen comes with a set of csv-files describing the six properties
 
